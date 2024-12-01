@@ -8,7 +8,7 @@ sns.set(style='dark')
 ##day_df = pd.read_csv(r"D:\Dashboard Dicoding\day.csv")
 ##hour_df = pd.read_csv(r"D:\Dashboard Dicoding\hour.csv")
 
-days_df = pd.read_csv("day.csv)
+days_df = pd.read_csv("day.csv")
 hours_df = pd.read_csv("hour.csv")
 
 
